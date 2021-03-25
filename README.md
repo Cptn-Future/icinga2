@@ -1,3 +1,8 @@
+!!! VORSICHT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+DIESER KRAM FUNKTIONIERT BEIM ERSTEN STARTEN HERVORRAGEND 
+NACH DEM NEUSTART IST IST AUS IRGEND EINEM GRUND EIN KEINE 
+VERBINDUNG VIA WEB MÖGLICH
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # icinga2
 
 This repository contains the source for the [icinga2](https://www.icinga.org/icinga2/) [docker](https://www.docker.com) image.
